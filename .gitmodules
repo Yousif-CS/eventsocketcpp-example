@@ -1,0 +1,6 @@
+[submodule "eventsocketcpp"]
+	path = eventsocketcpp
+	url = git@github.com:Yousif-CS/eventsocketcpp.git
+[submodule "build/eventsocketcpp"]
+	path = build/eventsocketcpp
+	url = git@github.com:Yousif-CS/eventsocketcpp.git
